@@ -10,6 +10,7 @@ Piezoelectric power generation harnesses electrical energy from mechanical vibra
 
 - **`/report`**: Contains the detailed project report in PDF format.
 - **`/images`**: Includes images and visualizations generated from COMSOL simulations.
+-  **`/raw`**: Contains COMSOL generated simulation files.
 
 ## Simulations
 
