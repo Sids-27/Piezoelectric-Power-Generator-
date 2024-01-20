@@ -27,6 +27,6 @@ The project report provides an in-depth analysis of the design, simulation resul
 
 ## Getting Started
 
-To access the full project report, navigate to the `/report` directory. For a visual overview of the simulations, explore the `/images` directory.
+To access the full project report, navigate to the `\report` folder. For a visual overview of the simulations, explore the `\images` folder.
 
 
